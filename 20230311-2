@@ -80,7 +80,7 @@ server=/*icloud.com.akadns.net/119.29.29.29
 
 
 #策略组
-#[policy]
+[policy]
 #static=🚀 节点选择, ♻️ 延迟最佳, 🇭🇰 香港,🇨🇳 台湾，🇯🇵 日本,🇸🇬 新加坡,🇺🇸 美国, PROXY, DIRECT, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Available.png
 #static=🍎 Apple, DIRECT,🚀 节点选择, PROXY, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Apple.png
 #static=🐟 漏网之鱼, 🚀 节点选择, ♻️ 延迟最佳, 🇭🇰 香港,🇨🇳 台湾，🇯🇵 日本,🇸🇬 新加坡,🇺🇸 美国, PROXY, DIRECT, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Policy-Filter/Final01.png
